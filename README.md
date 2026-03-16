@@ -225,18 +225,18 @@ http://127.0.0.1:5000
 - Learned to deploy ML models using Flask
 - Improved ability to explain ML results clearly
 
+  
+## 👥 Contributors
+
+- **OM THOMBARE**  
+- **RAMESH RATHOD**
+- **SAMEER BHOR**
 
 
 ## 📬 Contact
 
 **Team Leader:** Om Thombare  
 **Domain:** Data Science / Machine Learning  
-
-**Contributor:** Ramesh Rathod  
-**Domain:** Data Science / Machine Learning 
-
-**Contributor:** Sameer Bhor  
-**Domain:** Data Science / Machine Learning
 
 Feel free to connect or provide feedback!
 
