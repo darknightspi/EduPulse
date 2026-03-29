@@ -233,10 +233,7 @@ http://127.0.0.1:5000
 - **SAMEER BHOR**
 
 
-## 📬 Contact
-
-**Team Leader:** Om Thombare  
-**Domain:** Data Science / Machine Learning  
+## 📬 Contact  
 
 Feel free to connect or provide feedback!
 
